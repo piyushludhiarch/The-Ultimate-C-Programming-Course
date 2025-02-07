@@ -11,7 +11,7 @@ int main(){
         printf("This character is lowercase\n");
     }
     else{
-         printf("This character not lowecase \n");
+         printf("This character not uppercase \n");
     }
     return 0;
 }
